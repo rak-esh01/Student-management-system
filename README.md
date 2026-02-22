@@ -1,6 +1,7 @@
 A simple menu-driven Student Management System built using Python that performs basic CRUD operations and stores student data using file handling.
 This project is created to practice Python fundamentals, logic building, and data persistence.
 
+
 Features
 
 Add new student records
@@ -15,9 +16,7 @@ Delete student records
 
 Data stored using file handling (CSV / text file)
 
+
 Tech Stack
 
-Python
-
-File Handling
-
+Python (core programming), CSV file handling for data storage, and built-in libraries such as os for file management. The project utilizes structured data processing, basic CRUD operations, and command-line interaction to manage student records efficiently.
